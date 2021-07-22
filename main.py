@@ -2,7 +2,7 @@ import vdsr
 import tensorflow as tf
 import argparse
 
-train_dir = '/train/'
+train_dir = '/train'
 test_dir = '/test/Set5'
 validation_dir = '/test/Set5'
 model_dir = '/model/'
