@@ -51,7 +51,7 @@ The training requires GPU. To train the network, follow the following steps:
 3. Set the '--do_train' value to True to start training the network.
 
 
-### testing
+### Testing
 
 To test the trained network, ensure that the trained weights are in the model directory. Follow the same steps as done in training, except, set the '--do_test' value to True to test the network performance.
 
