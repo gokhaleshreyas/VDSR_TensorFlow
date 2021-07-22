@@ -27,7 +27,7 @@ As per mentioned in the paper, the data augmentation is done in the following wa
 ## Key Features
 
 1. The learning rate decay is used. The only change is the initial learning rate is kept at 0.01 instead of 0.1 in the paper.
-2. Gradient clipping was tried but didn't worked in the way as it should have.
+2. Provision for Gradient Clipping
 
 ## Use
 
